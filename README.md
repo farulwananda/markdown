@@ -1,114 +1,108 @@
 <div id="top"></div>
 
-
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="images/paimon.png" alt="Paimon" width="80" height="80">
   </a>
 
-  <h3 align="center">Best-README-Template</h3>
+  <h3 align="center">ReadmeKu</h3>
 
   <p align="center">
-    An awesome README template to jumpstart your projects!
+    Template README untuk mempermudah pekerjaan!
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/farulwananda/learn-readme"><strong>Dokumentasi »</strong></a>
     <br />
 </div>
 
-
 <!-- ABOUT THE PROJECT -->
-## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+## 📌 About The Project
+
+<img src="images/paimon-wallpaper.png" alt="Paimon">
 
 There are many great README templates available on GitHub; however, I didn't find one that really suited my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
 
 Here's why:
-* Your time should be focused on creating something amazing. A project that solves a problem and helps others
-* You shouldn't be doing the same tasks over and over like creating a README from scratch
-* You should implement DRY principles to the rest of your life :smile:
+
+- Your time should be focused on creating something amazing. A project that solves a problem and helps others
+- You shouldn't be doing the same tasks over and over like creating a README from scratch
+- You should implement DRY principles to the rest of your life :smile:
 
 Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all the people have contributed to expanding this template!
 
 Use the `BLANK_README.md` to get started.
 
-<p align="right">(<a href="#top">back to top</a>)</p>
+<p align="right">(<a href="#top">Back to top</a>)</p>
 
+## 📌 Built With
 
+Project dibuat dengan menggunakan beberapa software / bahasa pemrograman / framework diantaranya yaitu :
 
-### Built With
+- [PHP 8.0](https://windows.php.net/download)
+- [phpMyAdmin 5.1.1](https://www.phpmyadmin.net/)
+- [Laragon](https://laragon.org/download/index.html)
 
-This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
-
-* [PHP 8.0](https://windows.php.net/download)
-* [phpMyAdmin 5.1.1](https://www.phpmyadmin.net/)
-* [Laragon](https://laragon.org/download/index.html)
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
+<p align="right">(<a href="#top">Back to top</a>)</p>
 
 <!-- GETTING STARTED -->
-## Getting Started
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
+## 📌 Run Project
 
-### Prerequisites
+Project dapat dijalankan dengan cara :
 
-This is an example of how to list things you need to use the software and how to install them.
-* npm
+1. Cloning repository project.
+2. Import database phpMyAdmin.
+3. Jalankan project menggunakan localhost Laragon / Xampp .
+
+### Access Project
+
+Project dilengkapi dengan fitur login, untuk melanjutkan maka dibutuhkan akses akun dengan ketentuan sebagai berikut :
+
+- Login
   ```sh
-  npm install npm@latest -g
+  Username : admin
+  Password : admin
   ```
 
-
-<!-- USAGE EXAMPLES -->
-## Usage
-
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
+<p align="right">(<a href="#top">Back to top</a>)</p>
 
 <!-- CONTRIBUTING -->
-## Contributing
 
-Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+## 📌 Contributing
 
-If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
-Don't forget to give the project a star! Thanks again!
+Project ini terbuka untuk umum, bagi programmer yang ingin membantu mengembangkan project akan **sangat diapresiasi**.
 
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
+Jika anda memiliki kritik dan saran terkait dengan project silahkan hubungi kontak yang tertera dibawah atau ingin mengembangkan project lebih lanjut dengan melakukan :
 
-<p align="right">(<a href="#top">back to top</a>)</p>
+1. Fork Project
+2. Buat Branch Anda (`git checkout -b feature/AmazingFeature`)
+3. Commit Perubahan (`git commit -m 'Add some AmazingFeature'`)
+4. Push Branch (`git push origin feature/AmazingFeature`)
+5. Lakukan Pull Request
 
+### Team Development :
 
+1.  Farul Ahmad Wananda
+2.  dll.
+
+<p align="right">(<a href="#top">Back to top</a>)</p>
 
 <!-- LICENSE -->
-## License
 
-Distributed under the MIT License. See `LICENSE.txt` for more information.
+## 📌 License
 
-<p align="right">(<a href="#top">back to top</a>)</p>
+Project Didistribusikan di bawah MIT License. Silahkan membuka `LICENSE.txt` untuk informasi lebih lanjut.
 
-
+<p align="right">(<a href="#top">Back to top</a>)</p>
 
 <!-- CONTACT -->
-## Contact
 
-Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
+## 📌 Contact
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+Farul Ahmad Wananda - [Github](https://github.com/farulwananda)
 
-<p align="right">(<a href="#top">back to top</a>)</p>
+Project Link: [learn-readme](https://github.com/farulwananda/learn-readme)
 
+<p align="right">(<a href="#top">Back to top</a>)</p>
