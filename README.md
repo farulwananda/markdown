@@ -56,7 +56,7 @@ Project dapat dijalankan dengan cara :
 2. Import database phpMyAdmin.
 3. Jalankan project menggunakan localhost Laragon / Xampp .
 
-### 📌 Access Project
+### 🔗 Access Project
 
 Project dilengkapi dengan fitur login, untuk melanjutkan maka dibutuhkan akses akun dengan ketentuan sebagai berikut :
 
@@ -82,7 +82,7 @@ Jika anda memiliki kritik dan saran terkait dengan project silahkan hubungi kont
 4. Push Branch (`git push origin feature/AmazingFeature`)
 5. Lakukan Pull Request
 
-### 📌 Team Development :
+### 🔗 Team Development :
 
 1.  Farul Ahmad Wananda
 2.  dll.
